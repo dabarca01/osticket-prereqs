@@ -34,8 +34,8 @@ Log into the VM with Remote Desktop
 Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
 We will use the files in this folder to install osTicket and some of the dependencies.
 
-<p>
-![image](https://github.com/user-attachments/assets/dbbda6ec-e6d8-4b6b-b619-813e10e629ee)
+![image](https://github.com/user-attachments/assets/25330acb-61c7-4f13-b506-4164bba2da27)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
